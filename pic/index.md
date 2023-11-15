@@ -2,6 +2,7 @@
 title: 图集
 date: 2023-11-11 15:59:01
 layout: pic
+comments: 'giscus'
 ---
 
 <style>
@@ -15,7 +16,7 @@ layout: pic
   overflow: hidden;
   transition: .3s ease-in-out;
   border-radius: 8px;
-  background-color: #efefef;
+  background-color: rgba(180,180,180,0.2);
   padding: 1.4px;
 }
 .ImageInCard img {
@@ -25,7 +26,7 @@ layout: pic
   height:100%;
 }
 @media (prefers-color-scheme: dark) {
-  .card {background-color: #333;}
+  .card {background-color: rgba(180,180,180,0.2);}
 }
 </style>
 
