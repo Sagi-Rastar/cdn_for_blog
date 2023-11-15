@@ -16,7 +16,7 @@ comments: 'giscus'
   overflow: hidden;
   transition: .3s ease-in-out;
   border-radius: 8px;
-  background-color: rgba(180,180,180,0.2);
+  background-color: rgba(37, 45, 56, 1);
   padding: 1.4px;
 }
 .ImageInCard img {
@@ -26,7 +26,7 @@ comments: 'giscus'
   height:100%;
 }
 @media (prefers-color-scheme: dark) {
-  .card {background-color: rgba(180,180,180,0.2);}
+  .card {background-color: rgba(37, 45, 56, 1);}
 }
 </style>
 
